@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/mark.png" alt="Adin Greyling" width="340" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:22D3EE,45:6366F1,100:E879F9&text=Adin%20Greyling&fontSize=32&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" alt="Adin Greyling" width="100%" />
 
 ### Software Engineering student · Belgium Campus iTversity
 
@@ -123,3 +123,5 @@ References available on request.
 <a href="./Adin_Greyling_CV.pdf"><img alt="Download CV PDF" src="https://img.shields.io/badge/DOWNLOAD_CV_PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22D3EE,45:6366F1,100:E879F9&section=footer" alt="" width="100%" />
